@@ -1,0 +1,2 @@
+endpoint: https://us1.prisma.sh/miguel-tejeda/hackernews/dev
+datamodel: datamodel.prisma
